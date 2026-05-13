@@ -1,0 +1,21 @@
+{
+    "name": "MisFinanzas",
+    "short_name": "MisFinanzas",
+    "description": "Registra tus ingresos y gastos diarios",
+    "start_url": "/misfinanzas/",
+    "display": "standalone",
+    "background_color": "#0a0a14",
+    "theme_color": "#0f0f1a",
+    "icons": [
+      {
+        "src": "/misfinanzas/icon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/misfinanzas/icon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
